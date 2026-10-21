@@ -77,6 +77,20 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aimsook/Aimsook/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aimsook/Aimsook/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Aimsook/Aimsook/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 📫 Connect
 
 <div align="center">
